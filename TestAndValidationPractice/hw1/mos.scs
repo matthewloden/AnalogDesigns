@@ -1,0 +1,2 @@
+model nmos4 mos1 type=n vto=0.4 kp=200e-6 gamma=0 lambda=0
+model pmos4 mos1 type=p vto=-0.4 kp=100e-6 gamma=0 lambda=0
